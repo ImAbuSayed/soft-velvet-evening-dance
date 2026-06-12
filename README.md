@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fire pulling me close to you
+> Shadows on the wall painting a perfect view
+> Lost inside the motion of a quiet flame
+> A soft velvet evening gently calls my name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
